@@ -2,7 +2,7 @@ Hi there, I'm Kashish Shah 👋
 
 <p align="center">
 <!-- A friendly "Hi" GIF that relates to coding/development -->
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/WFZvB7VIXBgiz3o2E5/giphy.gif" width="100">
 </p>
 
 I'm an enthusiastic and motivated Computer Science student eager to explore the intersection of code and creativity as a Frontend Developer. I aim to enhance my skills to lead teams effectively and foster collaboration.
