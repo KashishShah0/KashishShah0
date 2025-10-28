@@ -1,6 +1,6 @@
 Hi there, I'm Kashish Shah 👋
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25oNjJwOTh5ajA2d2RhaTVxbzFnM2sxeWFybmt1eWh1YTQ1YnRwZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OumCa12QC9CIvBe2c1/giphy.gif" width="100%" alt="A friendly 'Hi There!' greeting animation">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25oNjJwOTh5ajA2d2RhaTVxbzFnM2sxeWFybmt1eWh1YTQ1YnRwZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OumCa12QC9CIvBe2c1/giphy.gif" width="50" height="50" alt="A friendly 'Hi There!' greeting animation">
 
 I'm an enthusiastic and motivated Computer Science student eager to explore the intersection of code and creativity as a Frontend Developer. I aim to enhance my skills to lead teams effectively and foster collaboration.
 
