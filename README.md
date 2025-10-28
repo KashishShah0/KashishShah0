@@ -1,16 +1,68 @@
-## Hi there 👋
+Hi there, I'm Kashish Shah 👋
 
-<!--
-**KashishShah0/KashishShah0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<!-- A friendly "Hi" GIF that relates to coding/development -->
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+</p>
 
-Here are some ideas to get you started:
+I'm an enthusiastic and motivated Computer Science student eager to explore the intersection of code and creativity as a Frontend Developer. I aim to enhance my skills to lead teams effectively and foster collaboration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can reach me at: kashishshah167@gmail.com
+
+🚀 Core Competencies
+
+💻 Programming & Technical Skills
+
+Languages: Java, HTML, CSS
+
+Concepts: Object-Oriented Programming (OOPS), Data Structures, Operating Systems
+
+Tools: Git, Visual Studio Code, AI Tools
+
+Networking: CCNAv7 (Introduction to Networks, Switching, Routing, Wireless Essentials, and Enterprise Networking)
+
+🌟 Soft Skills
+
+Strong analytical and problem-solving abilities
+
+Excellent written and verbal communication
+
+Teamwork and leadership (demonstrated through volunteering)
+
+Content Writing and Editing (from experience at MINDSPRITE)
+
+Adaptable and able to operate in fast-paced environments
+
+📂 Projects
+
+Here are some of the projects I've worked on:
+
+Brain Tumor Classification: Utilized Deep Learning and Image Augmentation techniques.
+
+Clubnect: A platform designed to bring all clubs together.
+
+Calculator: A functional calculator built using HTML, CSS, and JavaScript.
+
+🎓 Academic Background
+
+Bachelor's in Computer Science | Jain-Deemed-To-Be-University (Expected Graduation: May 2026)
+
+12th Grade (NEB) | Himalayan White House International College (2021)
+
+10th Grade (NEB) | VS Niketan Higher Secondary School (2019)
+
+🏆 Achievements & Certifications
+
+Awarded the Duke Of Edinburgh International Bronze Award
+
+Awarded the Super 40 Scholarship for grades 11th & 12th
+
+Received the SII Scholarship for Undergraduate Admission
+
+Certification of Xylem India Hackathon Challenge (2023)
+
+Certification of JAIN Hackathon (2024)
+
+Infosys Springboard: HTML, CSS, JavaScript, Design Thinking, and Business Communication
+
+Various Coursera certifications (Details available upon request)
