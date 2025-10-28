@@ -1,9 +1,6 @@
 Hi there, I'm Kashish Shah 👋
 
-<p align="center">
-<!-- A "coding" GIF that is commonly used on GitHub -->
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200">
-</p>
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 
 I'm an enthusiastic and motivated Computer Science student eager to explore the intersection of code and creativity as a Frontend Developer. I aim to enhance my skills to lead teams effectively and foster collaboration.
 
