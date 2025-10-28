@@ -1,13 +1,6 @@
 Hi there, I'm Kashish Shah 👋
 
-<p align="center">
-<!--
-A "Hi" GIF hosted on GitHub.
-The "?raw=true" at the end is CRITICAL.
-It ensures the raw image file is sent, not a webpage.
--->
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="100">
-</p>
+![Octocat working on a laptop](https://media.giphy.com/media/26n9GtYd6bYqP90Qo/giphy.gif)
 
 I'm an enthusiastic and motivated Computer Science student eager to explore the intersection of code and creativity as a Frontend Developer. I aim to enhance my skills to lead teams effectively and foster collaboration.
 
