@@ -1,6 +1,6 @@
 Hi there, I'm Kashish Shah 👋
 
-![Octocat working on a laptop](https://media.giphy.com/media/26n9GtYd6bYqP90Qo/giphy.gif)
+<img src="https://i.imgur.com/G5g2oJt.gif" width="100%" alt="A friendly 'Hi There!' greeting animation">
 
 I'm an enthusiastic and motivated Computer Science student eager to explore the intersection of code and creativity as a Frontend Developer. I aim to enhance my skills to lead teams effectively and foster collaboration.
 
